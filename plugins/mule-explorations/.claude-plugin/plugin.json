@@ -1,7 +1,7 @@
 {
   "name": "mule-explorations",
   "description": "Design explorations on the mule-ui design system — /mobbin-exploration-team takes a Figma link, a screenshot, or a phrase and produces three live design concepts. Bundles the Mobbin and Figma MCP servers.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Kamal Nayan",
     "email": "kamal.nayan@printbear.net"
