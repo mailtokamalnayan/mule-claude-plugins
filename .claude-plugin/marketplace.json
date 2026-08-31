@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mule-ui",
+  "version": "1.0.0",
+  "description": "Claude Code plugins for the mule-ui design team",
+  "owner": {
+    "name": "Kamal Nayan",
+    "email": "kamal.nayan@printbear.net"
+  },
+  "plugins": [
+    {
+      "name": "mule-explorations",
+      "description": "Design explorations on the mule-ui design system. Give /mobbin-exploration-team a Figma link, a screenshot, or a phrase; get one standalone HTML page with three clickable design concepts, styled with the real tokens and researched on Mobbin. Bundles the Mobbin and Figma MCP servers.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kamal Nayan",
+        "email": "kamal.nayan@printbear.net"
+      },
+      "source": "./plugins/mule-explorations",
+      "category": "design"
+    }
+  ]
+}
