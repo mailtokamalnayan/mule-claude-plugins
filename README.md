@@ -4,14 +4,16 @@ Claude Code plugins for the mule-ui design team.
 
 ## Install
 
-In Claude Code, run:
+**Claude Code Mac app**: click the **+** button next to the prompt box → **Plugins** → **Add plugin**. Add the marketplace `mailtokamalnayan/mule-claude-plugins`, then install **mule-explorations** from it.
+
+**Terminal CLI**: run
 
 ```
 /plugin marketplace add mailtokamalnayan/mule-claude-plugins
 /plugin install mule-explorations@mule-ui
 ```
 
-Restart Claude Code. Run `/mcp` and sign in to **mobbin** and **figma** (one time). Done.
+Either way, start a new session, run `/mcp`, and sign in to **mobbin** and **figma** (one time). Done. The app and the CLI share plugins — install once, use in both.
 
 ## Use
 
