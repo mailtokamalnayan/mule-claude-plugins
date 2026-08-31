@@ -7,7 +7,7 @@ Claude Code plugins for the mule-ui design team.
 In Claude Code, run:
 
 ```
-/plugin marketplace add <org>/mule-claude-plugins
+/plugin marketplace add mailtokamalnayan/mule-claude-plugins
 /plugin install mule-explorations@mule-ui
 ```
 
